@@ -6,6 +6,7 @@ Public files for the ConSiMeet Investor Portal Blogger builds. The source stays 
 |---|---|
 | `v5/*.webp` (17 images) | `ConSiMeet_V5_Ultimate_Investor_Portal_Blogger.html` and the Lite build |
 | `v5/portal.css`, `v5/portal.js` | `ConSiMeet_V5_Ultimate_Investor_Portal_Blogger_Lite.html` only |
+| `v5-1/` (17 images, `portal.css`, `portal.js`) | V5.1 Blogger builds (`ConSiMeet_V5_1_Investor_Portal_Blogger.html` and `_Blogger_Lite.html`) |
 
 Served through jsDelivr: `https://cdn.jsdelivr.net/gh/dxkon123/consimeet-inventory-img@main/v5/<file>`.
 
